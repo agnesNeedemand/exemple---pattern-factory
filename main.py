@@ -1,4 +1,3 @@
-from dialogs.dialog import Dialog
 from dialogs.web_dialog import WebDialog
 from dialogs.windows_dialog import WindowsDialog
 
